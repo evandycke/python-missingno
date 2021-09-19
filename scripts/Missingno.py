@@ -58,7 +58,7 @@ class Missingno(metaclass=MissingnoMeta): # Définition de la classe Missingno
 	def inspect(self):
 		"""Lance l'inspection d'un dataframe"""
 
-		df = pd.read_csv("../in/sp-pos-quot-dep-2021-09-19-19h08.csv", error_bad_lines=False)
+		df = pd.read_csv("../in/liste-commerces-roubaisiens-2016.csv", error_bad_lines=False, sep=';')
 		self.logger.info("Dataset loaded !")
 
 		pd.set_option('display.expand_frame_repr', False)
