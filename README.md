@@ -15,14 +15,17 @@ pip install missingno
 2. Clone this project
 3. Execute Missingno.py
 
+![Result](./images/missingno.gif)
+
 ### Screenshots
 
-![Heatmap](./images/missingno-adventureworks-product-matrix.png)
+![Heatmap](./out/missingno-result.png)
 
 ## Build with
 
 * [Python](https://www.python.org/) - Programming language
 * [Git](https://git-scm.com) - Open source distributed version control system
+* [Roubaix Open Data Portal](https://opendata.roubaix.fr/pages/accueil/)
 
 ## Useful links or documents
 
