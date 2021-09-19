@@ -1,20 +1,33 @@
-# Project Template
+# Python Missingno
 
-A brief description of the project.
+Missingno is an open-source Python library that generates Missing data visualization.
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ## Getting started
 
-How to start with this project.
+1. Install missingno with pip
+
+```bat
+pip install missingno
+```
+
+2. Clone this project
+3. Execute Missingno.py
+
+### Screenshots
+
+![Heatmap](./images/missingno-adventureworks-product-matrix.png)
 
 ## Build with
 
-List of tools used in this project.
+* [Python](https://www.python.org/) - Programming language
+* [Git](https://git-scm.com) - Open source distributed version control system
 
 ## Useful links or documents
 
-List of links or documents useful for this project
+* [Missingno](https://pypi.org/project/missingno/) - Missing data visualization module for Python.
+* [Missingno Repository](https://github.com/ResidentMario/missingno) - Thanks to [Aleksey Bilogur](https://github.com/ResidentMario)
 
 ## Contributing
 
